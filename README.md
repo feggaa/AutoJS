@@ -7,17 +7,17 @@
 	<h3 align="center">AutoJs is Runtime JavaScript By AutoIt</h3>
 	<br>
 	<p align="center">
-		<a href="http://opensource.spotify.com/cefbuilds/index.html">
+		<a href="https://github.com/R3Pro/AutoJS">
 			<img src="https://img.shields.io/badge/AutoJs-1.0 Beta-lightgrey.svg">
 		</a>
 		<br>
-		<a href="http://opensource.spotify.com/cefbuilds/index.html">
+		<a href="https://www.autoitscript.com/forum/files/file/498-autoit-v33153-beta/">
 			<img src="https://img.shields.io/badge/AutoIt-3.3.15.3-blue.svg">
 		</a>
-    <a href="http://opensource.spotify.com/cefbuilds/index.html">
+    <a href="https://en.wikipedia.org/wiki/JScript">
 			<img src="https://img.shields.io/badge/JScript-5.8.16384-yellow.svg">
 		</a>
-		<a href="https://github.com/wy3/cefau3/blob/master/LICENSE">
+		<a href="https://github.com/R3Pro/AutoJS/blob/main/LICENSE">
 			<img src="https://img.shields.io/badge/license-MIT-green.svg">
 		</a>
 	</p>
