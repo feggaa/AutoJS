@@ -8,7 +8,7 @@
 	<br>
 	<p align="center">
 		<a href="http://opensource.spotify.com/cefbuilds/index.html">
-			<img src="https://img.shields.io/badge/AutoJs-1.0-lightgrey.svg">
+			<img src="https://img.shields.io/badge/AutoJs-1.0 Beta-lightgrey.svg">
 		</a>
 		<br>
 		<a href="http://opensource.spotify.com/cefbuilds/index.html">
@@ -37,6 +37,9 @@ try {
 
 Exit()
 ```
+### Run Code
+	AutoJs index.js
+	
 ## Features
 - Threads
 - Objects
