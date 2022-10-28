@@ -4,7 +4,7 @@
 		<br>
 		AutoJs
 	</h1>
-	<h3 align="center">AutoJs is Runtime JavaScript By AutoIt</h3>
+	<h3 align="center">AutoJs is JavaScript Runtime environment By AutoIt</h3>
 	<br>
 	<p align="center">
 		<a href="https://github.com/R3Pro/AutoJS">
